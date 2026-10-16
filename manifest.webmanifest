@@ -1,0 +1,35 @@
+{
+ "id": "./app/",
+ "name": "ASHA Shiksha – ASHA Training",
+ "short_name": "ASHA Shiksha",
+ "description": "Free training for ASHA workers in Gujarati, Hindi and English.",
+ "start_url": "./app/",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#FBF4F7",
+ "theme_color": "#B8175A",
+ "lang": "gu",
+ "categories": [
+  "education",
+  "medical"
+ ],
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

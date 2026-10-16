@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashashiksha.in/sitemap.xml
