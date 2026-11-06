@@ -1,5 +1,5 @@
 /* ASHA Shiksha offline helper. Keeps the app and fonts on the phone; saves lesson pages as they are opened. */
-const CACHE = "asha-5b98a7f16d";
+const CACHE = "asha-bb937e328d";
 const CORE = [
  "./",
  "app/",
